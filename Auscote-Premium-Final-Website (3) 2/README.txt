@@ -10,7 +10,7 @@ Brand direction:
 - Burnt orange
 
 Contact:
-0422 555 700
-auscotemb@hotmail.com
+0405552555
+auscotemg@hotmail.com
 
 The website is responsive and the quote form opens a pre-filled email addressed to Auscote.
